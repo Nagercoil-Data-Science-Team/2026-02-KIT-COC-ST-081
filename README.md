@@ -1,5 +1,5 @@
 # 2026-02-KIT-COC-ST-081
 
-Title: Enhancing Infrared and Visible Image Fusion via GANs with Feature-Wise Attention
+Title: Optimizing prospective Pumped Storage Hydropower to Improve Peak Load Management in Egypt
 
-Domain: GAN ,Feature-wise attention
+Domain: Hydropower plant ,load management
